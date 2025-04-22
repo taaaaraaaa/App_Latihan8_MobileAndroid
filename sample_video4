@@ -1,0 +1,1 @@
+Uri videoUri = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.sample_video);
